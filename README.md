@@ -1,5 +1,4 @@
 The Problem
-
 1 - Build a classification problem, using the columns x, y and z, trying to classify the label column.
 
 Segregate a test and training frame.
@@ -72,7 +71,7 @@ ax.scatter(df['x'],df['y'],df['z'],c=df['label'],s=10)
 
 
 
-![png](teste_files/teste_6_1.png)
+![png](output_6_1.png)
 
 
 Looking for correlation between variables
@@ -102,7 +101,7 @@ plt.imshow(corr)
 
 
 
-![png](teste_files/teste_8_1.png)
+![png](output_8_1.png)
 
 
 
@@ -134,7 +133,7 @@ plt.show()
 ```
 
 
-![png](teste_files/teste_9_0.png)
+![png](output_9_0.png)
 
 
 
@@ -230,7 +229,7 @@ sns.pairplot(df)
 
 
 
-![png](teste_files/teste_11_1.png)
+![png](output_11_1.png)
 
 
 
@@ -351,11 +350,11 @@ visualizer.show()
 ```
 
 
-![png](teste_files/teste_17_0.png)
+![png](output_17_0.png)
 
 
 
-![png](teste_files/teste_17_1.png)
+![png](output_17_1.png)
 
 
 
@@ -374,7 +373,7 @@ visualizer.show()
 ```
 
 
-![png](teste_files/teste_18_0.png)
+![png](output_18_0.png)
 
 
 
@@ -517,7 +516,7 @@ plt.show()
 ```
 
 
-![png](teste_files/teste_24_0.png)
+![png](output_24_0.png)
 
 
 
